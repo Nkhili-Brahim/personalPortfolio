@@ -1,0 +1,28 @@
+/*start header*/
+
+header 
+{
+	display: flex;
+	background-color: red;
+	
+}
+header img
+{
+	background-color: green;
+	width: 100px;
+	height: 100px;
+}
+header nav
+{
+	background-color: blue;
+
+}
+header nav ul
+{
+	background-color: orange;
+	display: flex;
+}
+header .resume
+{
+	background-color: rgb(200,200,200);
+}
